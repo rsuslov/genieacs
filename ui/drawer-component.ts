@@ -127,6 +127,7 @@ function renderStagingDownload(task: StageTask): Children {
     "3 Vendor Configuration File",
     "4 Tone File",
     "5 Ringer File",
+    "X PERENIO_COM Container file",
   ].map((t) =>
     m(
       "option",

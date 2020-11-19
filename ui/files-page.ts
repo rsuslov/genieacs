@@ -52,6 +52,7 @@ const attributes: {
       "3 Vendor Configuration File",
       "4 Tone File",
       "5 Ringer File",
+      "X PERENIO_COM Container file",
     ],
   },
   { id: "metadata.oui", label: "OUI" },
